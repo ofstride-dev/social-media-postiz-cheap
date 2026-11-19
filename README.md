@@ -60,7 +60,7 @@ AI-generated copy is a starting point. Review it for accuracy, brand voice, righ
 
 - **Web application:** Next.js 16 App Router and React 19
 - **Styling and components:** Tailwind CSS, Framer Motion, and React Icons
-- **Database:** PostgreSQL accessed through Prisma
+- **Database:** PostgreSQL accessed through Prisma or use neon database or supabase or install docker image for postgreSQL and then switch Prisma to SQLite
 - **Authentication:** NextAuth with Google sign-in
 - **AI and social integrations:** MuAPI
 - **Optional credit checkout:** Stripe
